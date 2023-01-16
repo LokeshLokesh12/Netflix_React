@@ -1,5 +1,5 @@
 import './App.css';
-// import Main from './Component/Main'
+import './index.css';
 import Home from './Home';
 function App() {
   return (
